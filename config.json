@@ -1,0 +1,10 @@
+{
+    "interfaces": {
+        "wlo1": {
+            "bandwidth_limit": 1000
+        },
+        "wlo2": {
+            "bandwidth_limit": 2000
+        }
+    }
+}
